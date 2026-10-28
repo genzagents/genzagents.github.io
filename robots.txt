@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://genzagents.github.io/rentready/sitemap.xml
+Sitemap: https://genzagents.github.io/citable/sitemap.xml
